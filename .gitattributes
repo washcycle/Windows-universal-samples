@@ -3,6 +3,34 @@
 ###############################################################################
 * text=auto
 
+<<<<<<< HEAD
+=======
+# Declare files that will always have CRLF line endings on checkout.
+*.appxmanifest text eol=crlf
+*.c            text eol=crlf
+*.cpp          text eol=crlf
+*.cs           text eol=crlf
+*.csproj       text eol=crlf
+*.css          text eol=crlf
+*.def          text eol=crlf
+*.filters      text eol=crlf
+*.h            text eol=crlf
+*.htm          text eol=crlf
+*.html         text eol=crlf
+*.idl          text eol=crlf
+*.inf          text eol=crlf
+*.inx          text eol=crlf
+*.js           text eol=crlf
+*.json         text eol=crlf
+*.jsproj       text eol=crlf
+*.rc           text eol=crlf
+*.resjson      text eol=crlf
+*.rgs          text eol=crlf
+*.sln          text eol=crlf
+*.vcxproj      text eol=crlf
+*.xaml         text eol=crlf
+
+>>>>>>> 63292b2dbed86d2f23b0420babfbe4c60eb0f4f0
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
@@ -10,6 +38,7 @@
 # default for csharp files.
 # Note: This is only used by command line
 ###############################################################################
+<<<<<<< HEAD
 #*.cs     diff=csharp
 
 ###############################################################################
@@ -61,4 +90,7 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+=======
+*.cs     diff=csharp
+>>>>>>> 63292b2dbed86d2f23b0420babfbe4c60eb0f4f0
 

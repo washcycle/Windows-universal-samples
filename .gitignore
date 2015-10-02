@@ -15,6 +15,10 @@
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
+<<<<<<< HEAD
+=======
+[Gg]enerated Files/
+>>>>>>> 63292b2dbed86d2f23b0420babfbe4c60eb0f4f0
 x64/
 x86/
 build/
@@ -194,3 +198,10 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+<<<<<<< HEAD
+=======
+
+# Custom ignores
+gallery.xml
+project.lock.json
+>>>>>>> 63292b2dbed86d2f23b0420babfbe4c60eb0f4f0
